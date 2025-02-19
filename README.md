@@ -11,6 +11,7 @@ This project implements a steganography technique to securely hide data within P
 │   ├── encryption.py    # Functionality for encrypting data before hiding
 │   ├── decryption.py    # Functionality for decrypting data after extraction
 │   ├── apple.png        # Example PNG image for testing
+│   ├── requirements.txt    # Installing the necessary libraries using pip
 │   ├── background_image.jpg # Background image for the GUI
 |__ Presentation_Eshaan_Sandhu
 └── README.md
